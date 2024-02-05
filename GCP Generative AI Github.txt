@@ -1,0 +1,1 @@
+enerative AI Google Github  Link :  asl-ml-immersion/notebooks/text_models/solutions/classify_text_with_bert.ipynb at master · GoogleCloudPlatform/asl-ml-immersion (github.com)
